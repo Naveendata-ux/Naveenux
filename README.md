@@ -1,4 +1,4 @@
-# LIBRARY
+# Documentation For Section_2 REST API
 ## Code characteristics
 
     Works on Python 3.7
